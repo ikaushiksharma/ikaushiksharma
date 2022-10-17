@@ -1,4 +1,4 @@
-	# Hi there 👋
+# Hi there 👋
 
  - 😄 Pronouns: He/His
  - 🔭 I’m a freshman year Engineering Student.		 - 🔭 I’m a freshman year Engineering Student.
