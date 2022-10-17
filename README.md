@@ -1,10 +1,4 @@
-
-SplitUnified
- 6  
-README.md
-
-@@ -1,8 +1,8 @@
-# Hi there 👋		# Hi there 👋
+	# Hi there 👋
 
  - 😄 Pronouns: He/His
  - 🔭 I’m a freshman year Engineering Student.		 - 🔭 I’m a freshman year Engineering Student.
@@ -14,3 +8,4 @@ README.md
  - ⚡ I'm an aspiring MERN Stack Developer		 - ⚡ I'm an aspiring MERN Stack Developer
  - 🎆Languages Known : JS, C++, Java		 - 🎆Languages Known : JS, C++, Java
  - 📫 How to reach me: kaushik445566@gmail.com
+****
