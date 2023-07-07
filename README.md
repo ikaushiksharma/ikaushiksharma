@@ -17,7 +17,7 @@
 
 <br>
 
-- Sophomore Student - Bachelor of Engineering - CUIET, Punjab, India
+- Pre Final Year Student - Bachelor of Engineering - CUIET, Punjab, India
 - A passionate Self-taught Web Developer
 - Part of GDSC and GFG Student Chapter
 - Currently learning DevOps
