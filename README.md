@@ -29,4 +29,13 @@
 [![](https://visitcount.itsvg.in/api?id=ikaushiksharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   5 hrs 44 mins   █████████████████████░░░░   84.63 %
+JavaScript   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+JSON         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+```
+
 <!--END_SECTION:waka-->
