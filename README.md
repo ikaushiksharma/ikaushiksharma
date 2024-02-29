@@ -20,7 +20,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=ikaushiksharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![github-wrapped](https://github.com/ikaushiksharma/ikaushiksharma/assets/90143986/a02d85b2-374a-43b4-a581-7dae1dab3d20)
+<!-- ![github-wrapped](https://github.com/ikaushiksharma/ikaushiksharma/assets/90143986/a02d85b2-374a-43b4-a581-7dae1dab3d20) -->
 
 ---
 
