@@ -29,11 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    26 mins         ███████████████░░░░░░░░░░   59.40 %
-Image (svg)   8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-Other         6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
-CSV           2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-JSON          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
