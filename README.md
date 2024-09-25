@@ -29,10 +29,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    19 mins         ███████████████░░░░░░░░░░   60.66 %
-Python        9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.30 %
-Markdown      2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-Image (svg)   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+TypeScript    19 mins         █████████████████████▒░░░   85.81 %
+Markdown      2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Image (svg)   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
