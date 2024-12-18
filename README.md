@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on NextJs, NodeJs, Java<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning System Design, DSA<br>💬 Ask me about DSA, ReactJs, NodeJs, NextJs
+🔭 I’m currently working on NextJs, NodeJs, Java<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning System Design<br>💬 Ask me about DSA, ReactJs, NodeJs, NextJs, System Design
 
 ## 🌐 Socials:
 
